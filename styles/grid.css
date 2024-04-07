@@ -1,0 +1,6 @@
+.products__wrap{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 270px);
+    gap: 40px 30px;
+    justify-content: center;
+}
